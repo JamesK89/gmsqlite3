@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="gm_sqlite3"
+	>
+	<UserMacro
+		Name="BUILD_RELEASE_PATH"
+		Value="..\build\release"
+	/>
+	<UserMacro
+		Name="BUILD_DEBUG_PATH"
+		Value="..\build\debug"
+	/>
+	<UserMacro
+		Name="HL2_SDK_PATH"
+		Value="..\..\HL2SDK"
+	/>
+	<UserMacro
+		Name="GMOD_SDK_PATH"
+		Value="..\..\gmodmodules\secretheaders"
+	/>
+	<UserMacro
+		Name="HL2_LIB_PATH"
+		Value="..\..\HL2SDK\lib\public"
+	/>
+	<UserMacro
+		Name="LUA_SDK_PATH"
+		Value="D:\Program Files (x86)\Lua\5.1\include"
+	/>
+	<UserMacro
+		Name="LUA_LIB_PATH"
+		Value="D:\Program Files (x86)\Lua\5.1\lib"
+	/>
+	<UserMacro
+		Name="SQLITE3_SDK_PATH"
+		Value="D:\Libraries\sqlite3"
+	/>
+	<UserMacro
+		Name="SQLITE3_LIB_PATH"
+		Value="D:\Libraries\sqlite3\lib"
+	/>
+	<UserMacro
+		Name="GMOD_GAME_PATH"
+		Value="F:\Program Files (x86)\Steam\steamapps\jamesk89@lycos.com\garrysmod"
+	/>
+</VisualStudioPropertySheet>
