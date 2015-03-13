@@ -1,0 +1,1 @@
+The improved gm\_sqlite3 module for Garry's Mod introduces object oriented database programming, and parametrized queries.
